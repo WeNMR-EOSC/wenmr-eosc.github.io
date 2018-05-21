@@ -1,13 +1,14 @@
 ---
 layout: page
 tags: [WeNRM, NRM, SAXS, e-Infrastructure, Structure, Biology, West-Life, EU, EGI, 7framework, Grid]
-modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: pages/banner_resources.jpg
+  feature: wenmr_banner.png
 ---
 
-This page provide you links to various software tools, databases and web server which might be useful for CAPRI predictors.
+WeNMR  is a Virtual Research Community supported by EGI. WeNMR aims at bringing together complementary research teams in the structural biology and life science area into a virtual research community at a worldwide level and provide them with a platform integrating and streamlining the computational approaches necessary for data analysis and modelling.
+
+#### Harness the power of the GRID
 
 #### Table of contents
 {:.no_toc}
@@ -17,27 +18,38 @@ This page provide you links to various software tools, databases and web server 
 <br>
 <HR>
 
-### Contributing software and resources to this web site?
+### Cite WeNMR/WestLife
 
-Do you want your software / database or web portal to be listed in the resources pages of our CAPRI web site?
-One requirement is that it should be freely accessible to the community (at least for non-profit users).
+Usage of the WeNMR/WestLife portals should be acknowledged in any publication:
 
-Interested? Then please send the following information to capri.docking_[at]_gmail.com :
+*"The FP7 WeNMR (project# 261572), H2020 West-Life (project# 675858) and the EOSC-hub (project# 777536) European e-Infrastructure projects are acknowledged for the use of their web portals, which make use of the EGI infrastructure with the dedicated support of CESNET-MetaCloud, INFN-PADOVA, NCG-INGRID-PT, TW-NCHC, SURFsara and NIKHEF, and the additional support of the national GRID Initiatives of Belgium, France, Italy, Germany, the Netherlands, Poland, Portugal, Spain, UK, Taiwan and the US Open Science Grid."*
 
-- Name of the software/resource
-- Name of the group providing it (and web link to the group)
-- Short test description of what it does / contains / offers
-- web link to the software/resource
-- Name and email of a contact person in case of problems with the resource (or alternatively web link of a support forum).
-
-Your request will be subjected to review by the CAPRI committee.
+And the following article describing the WeNMR portals should be cited:
+<br>
+*Wassenaar et al. (2012)*. <a href="http://link.springer.com/article/10.1007%2Fs10723-012-9246-z" target="_blank">WeNMR: Structural Biology on the Grid</a>. *J. Grid. Comp.*, **10**:743-767.
 
 <br>
 <HR>
 
-### Software tools
 
-  * [**FCC** - Fraction of common contact clustering](http://github.com/haddocking/fcc): Clustering of biomolecular complexes based on the fraction of common contacts. Contributed by the [BonvinLab](http://bonvinlab.org) (developed by João Rogrigues).
+### EGI-approved
 
-  * [**InterEvScore**](http://biodev.cea.fr/interevol/interevscore/): A scoring function for protein docking which combines a multi-body statistical potential with evolutionary information. This software was developed in the team of [Raphael Guerois](http://www.cea.fr/drf/ibitecs/english/Pages/units/sb2sm/lbsr/molecular-assemblies-genome-integrity.aspx).
- 
+<div style="width:120px; height:120px; float:left; padding-right: 10px; padding-bottom:15px;">
+  <img src="/images/egi-stamp.png" alt="EGI approved" title="EGI approved"/>
+</div>
+The WeNMR Virtual Research Community has been the first to be officially recognized by the <a href="http://www.egi.eu/" target="_blank">EGI</a>.
+
+<br><br><br>
+<HR>
+
+
+### European Union
+
+<div style="float:right; padding-left: 10px; padding-bottom: 10px;">
+  <img src="/images/7thframework-small.png" alt="7thframework logo" title="7thframework logo" />
+</div>
+WeNMR is an e-Infrastructure project funded under the 7th framework of the EU. Contract no. 261572
+
+<a href="http://www.west-life.eu/" target="_blank">WestLife</a>, the follow up project of WeNMR is a Virtual Research Environment e-Infrastructure project funded under Horizon 2020. Contract no. 675858
+
+<img src="/images/West-Life_logo.png" alt="West-Life logo" title="West-Life logo" />

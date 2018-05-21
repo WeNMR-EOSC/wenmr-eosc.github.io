@@ -3,3 +3,16 @@ body {
   background-repeat: no-repeat;
   background-color: #EFEFEF;
 }
+
+article {
+  background-color: #ffffff;
+  padding: 0 20px;
+}
+
+.image-wrap::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    bottom: -32px;
+    left: 35%;
+}
