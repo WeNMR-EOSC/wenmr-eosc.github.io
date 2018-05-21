@@ -1,0 +1,62 @@
+# For general help on the options
+# # http://jekyllrb.com/docs/configuration/
+
+# Site wide configuration
+
+title:            "WeNMR | A worldwide e-Infrastructure for NMR and structural biology"
+locale:           en_US
+#url:              https://wenmr.github.io
+url:              http://127.0.0.1:4000
+
+# RSS Feed configuration
+name: WeNMR
+description:  WeNMR | A worldwide e-Infrastructure for NMR and structural biology
+rss: true
+
+# Jekyll configuration
+permalink:   /:categories/:title/
+post_dir: false
+markdown:    kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-coffeescript
+  - jekyll-paginate
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+
+# Github Specific Settings that *cannot* be changed
+# To ensure proper reproducibility
+# https://help.github.com/articles/configuring-jekyll/
+gist:
+  noscript: false
+github: [metadata]
+highlighter: rouge
+incremental: true
+lsi: false
+safe: true
+
+# Site owner
+owner:
+  name: WeNMR
+  avatar: wenmr.png
+  bio: "WeNMR is a worldwide e-Infrastructure for NMR and structural biology"
+  email: A.M.J.J.Bonvin@uu.nl
+  google:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  github: WeNMR-EOSC
+  twitter: WeNMR
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "_utilities"]
+
+theme: jekyll-theme-minimal

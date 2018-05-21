@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: WeNMR
+  url: /wenmr/
+
+- title: NMR
+  url: /nmr/
+
+- title: SAXS
+  url: /saxs/
+
+- title: Support
+  url: /support/
