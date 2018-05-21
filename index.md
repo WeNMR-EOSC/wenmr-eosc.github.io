@@ -8,7 +8,9 @@ image:
 
 WeNMR  is a Virtual Research Community supported by EGI. WeNMR aims at bringing together complementary research teams in the structural biology and life science area into a virtual research community at a worldwide level and provide them with a platform integrating and streamlining the computational approaches necessary for data analysis and modelling.
 
-#### Harness the power of the GRID
+<div style="text-align:center; width:100%;">
+  <h3>Harness the power of the GRID</h3>
+</div>
 
 #### Table of contents
 {:.no_toc}
