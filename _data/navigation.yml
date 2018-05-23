@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: WeNMR
-  url: /wenmr/
+- title: About
+  url: /about/
 
-- title: NMR
-  url: /nmr/
+- title: News
+  url: /news/
 
-- title: SAXS
-  url: /saxs/
+- title: EOSC-Hub Services
+  url: /services/
 
 - title: Support
   url: /support/

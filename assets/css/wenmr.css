@@ -16,3 +16,8 @@ article {
     bottom: -32px;
     left: 35%;
 }
+
+#index {
+  background-color: #ffffff;
+  padding: 0 20px;
+}
