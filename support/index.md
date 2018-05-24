@@ -4,7 +4,7 @@ tags: [WeNRM, NRM, SAXS, e-Infrastructure, Structure, Biology, West-Life, EU, EG
 modified: 2018-05-21T09:53:07.573882-04:00
 comments: false
 image:
-  feature: wenmr_banner.png
+  feature: banner.png
 ---
 #### Table of contents
 {:.no_toc}

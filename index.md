@@ -10,6 +10,6 @@ WeNMR  is a Virtual Research Community supported by EGI. WeNMR aims at bringing 
 
 <hr>
 
-WeNMR entry point redesign. WeNMR is operating as a thematic service in the EOSC-hub
+This is a new re-design of the WeNMR entry. At the moment, WeNMR is operating as a thematic service in the <a href="https://www.eosc-hub.eu/" target="_blank">EOSC-hub</a> project.
 
-We descontinue the old registration system and we're providing a new one...
+The old registration system has been discontinued, but we are working to provide a new one soon.

@@ -5,5 +5,5 @@ modified: 2018-05-21T09:53:07.573882-04:00
 comments: false
 title: All News
 image:
-  feature: wenmr_banner.png
+  feature: banner.png
 ---
