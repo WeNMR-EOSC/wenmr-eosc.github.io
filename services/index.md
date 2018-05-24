@@ -7,8 +7,6 @@ image:
   feature: banner.png
 ---
 
-# WeNMR suite for Structural Biology
-
 #### Table of contents
 {:.no_toc}
 * table of contents
