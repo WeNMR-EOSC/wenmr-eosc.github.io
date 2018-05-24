@@ -12,6 +12,8 @@ image:
 * table of contents
 {:toc}
 
+# WeNMR suite for Structural Biology
+
 WeNMR is now part of the <a href="https://www.eosc-hub.eu/catalogue/WeNMR%20suite%20for%20Structural%20Biology" target="_blank">thematic services</a> implemented in the EOSC-Hub project.
 
 ## EOSC-hub WeNMR thematic services
