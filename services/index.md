@@ -45,7 +45,7 @@ The WeNMR thematic services operated under EOSC-Hub consist of eight individual 
 The WeNMR platforms are freely available online and can be accessed by researchers upon registration. Visit the services pages to find information about registration.
 
 
-## Service provideders
+## Service providers
 
 The WeNMR tools are provided by the <a href="http://www.uu.nl/" target="_blank">University of Utrecht</a>, the <a href="https://www.unifi.it/changelang-eng.html" target="_blank">University of Florence</a> / <a href="http://www.cerm.unifi.it" target="_blank">Interuniversity consortium CIRMMP</a> and the <a href="http://home.infn.it/en/">INFN Padova</a>.
 
