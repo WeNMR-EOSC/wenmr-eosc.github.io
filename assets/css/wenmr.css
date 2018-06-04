@@ -9,7 +9,7 @@ article {
   padding: 0 20px;
 }
 
-.image-wrap {
+.image-wrap > img {
   border-top: 3px solid #fffdfd;
   border-bottom: 3px solid #fffdfd;
   opacity: 0.8;
