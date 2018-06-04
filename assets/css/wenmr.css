@@ -9,6 +9,16 @@ article {
   padding: 0 20px;
 }
 
+.image-wrap {
+  border-top: 3px solid #fffdfd;
+  border-bottom: 3px solid #fffdfd;
+  opacity: 0.8;
+}
+
+.page {
+  background-color: rgba(64, 81, 109, 0.13);
+}
+
 .image-wrap::after {
     content: " ";
     display: block;
