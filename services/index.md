@@ -37,6 +37,7 @@ The WeNMR thematic services operated under EOSC-Hub consist of eight individual 
 * <a href="http://enmr.chemie.uni-frankfurt.de/portal/aria.html" target="_blank">ARIA</a>, a web portal for automated NOE assignment and NMR structure calculations
 * <a href="http://haddock.science.uu.nl/services/FANDAS" target="_blank">FANDAS</a>, a tool to predict peaks for multidimensional NMR experiments on proteins
 * <a href="http://py-enmr.cerm.unifi.it/access/index/maxocc" target="_blank">MAXOCC</a>, a method for making rigorous numerical assessments about the maximum percent of time that a conformer of a flexible macromolecule can exist and still be compatible with the experimental data 
+* <a href="http://metalweb.cerm.unifi.it" target="_blank">MetalPDB</a>, a database that collects and allows easy access to the knowledge on metal sites in biological macromolecules, starting from the structural information contained in the Protein Data Bank (PDB)
 * <a href="http://py-enmr.cerm.unifi.it/access/index/sednmr" target="_blank">SEDNMR</a>, web tool for simple calculation of the relevant parameters for the success of the sedimentation NMR experiments, either in a rotor or with ultracentrifugal devices
 * <a href="http://py-enmr.cerm.unifi.it/access/index/xplor-nih" target="_blank">XPLOR-NIH</a>, a generalized software for biomolecular structure determination from experimental NMR data combined with geometric data
 
