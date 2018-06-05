@@ -9,7 +9,7 @@ article {
   padding: 0 20px;
 }
 
-.image-wrap {
+.image-wrap > img {
   border-top: 3px solid #fffdfd;
   border-bottom: 3px solid #fffdfd;
   opacity: 0.8;
@@ -31,3 +31,20 @@ article {
   background-color: #ffffff;
   padding: 0 20px;
 }
+
+
+@media only screen and (min-width: 37.5em) {
+ #index,#main article {
+  display:inline;
+  float:left;
+  width:60% !important;
+  margin-left:0;
+  margin-right:0
+ }
+}
+@media only screen and (min-width: 86.375em) {
+ #index,#main article {
+  display:inline;
+  float:left;
+  width:50% !important;
+ }

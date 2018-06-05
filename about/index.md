@@ -47,11 +47,9 @@ The WeNMR Virtual Research Community has been the first to be officially recogni
 
 ### European Union
 
-<div style="float:right; padding-left: 10px; padding-bottom: 10px;">
-  <img src="/images/7thframework-small.png" alt="7thframework logo" title="7thframework logo" />
-</div>
 WeNMR is an e-Infrastructure project funded under the 7th framework of the EU. Contract no. 261572
 
 <a href="http://www.west-life.eu/" target="_blank">WestLife</a>, the follow up project of WeNMR is a Virtual Research Environment e-Infrastructure project funded under Horizon 2020. Contract no. 675858
 
-<img src="/images/West-Life_logo.png" alt="West-Life logo" title="West-Life logo" />
+<img src="/images/7thframework-small.png" alt="7thframework logo" title="7thframework logo" />
+<img src="/images/West-Life_logo.png" alt="West-Life logo" title="West-Life logo" style="padding-left: 10px;"/>
