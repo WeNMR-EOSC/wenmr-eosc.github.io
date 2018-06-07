@@ -2,11 +2,10 @@
 layout: page
 tags: [WeNRM, NRM, SAXS, e-Infrastructure, Structure, Biology, West-Life, EU, EGI, 7framework, Grid]
 comments: false
+title: Structure refinement using Restrained Molecular Dynamics (RMD) with the AMBER package
 image:
   feature: banner.png
 ---
-
-# Structure refinement using Restrained Molecular Dynamics (RMD) with the AMBER package
 
 ## RMD refinement of CYANA/Xplor-NIH structures
 
