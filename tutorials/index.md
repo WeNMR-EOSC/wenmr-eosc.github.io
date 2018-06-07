@@ -66,6 +66,10 @@ We provide here a number of link to tutorials illustrating the use of various We
   (does not require Linux).
 
 
+### RMD-AMBER
+
+* [**RMD with the AMBER package**](amber): A tutorial about structure refinement using Restrained Molecular Dynamics (RMD) with the AMBER package.
+
 ### SPOTON
 
 * [**The SPOTON user manual**](http://milou.science.uu.nl/cgi/services/SPOTON/spoton/help) provides a short explanation of the simple input and output data of the SPOTON server.
