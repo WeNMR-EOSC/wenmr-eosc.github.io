@@ -58,6 +58,8 @@ We provide here a number of link to tutorials illustrating the use of various We
   A tutorial demonstrating the use of HADDOCK in ab-initio mode to screen for potential ligand binding sites. 
   The information from the ab-initio run is then used to setup a binding pocket-targetet protein-ligand docking run.
   We use as example the multidrug exporter AcrB.
+  
+* [**How to use SAXS data in scoring HADDOCK decoys**](HADDOCK-SAXS): A tutorial which shows how to make use of SAXS data in HADDOCK.
 
 
 ### POWERFIT
