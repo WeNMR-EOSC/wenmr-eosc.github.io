@@ -61,6 +61,8 @@ We provide here a number of link to tutorials illustrating the use of various We
   
 * [**How to use SAXS data in scoring HADDOCK decoys**](HADDOCK-SAXS): A tutorial which shows how to make use of SAXS data in HADDOCK.
 
+* [**CS-HADDOCK**](CS-HADDOCK): A re-scoring method that uses chemical shift data quantitatively to score HADDOCK models.
+
 
 ### POWERFIT
 
