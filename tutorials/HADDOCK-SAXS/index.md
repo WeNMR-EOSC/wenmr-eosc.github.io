@@ -76,7 +76,7 @@ In this section, we’ll guide you through a real CAPRI modeling example. CAPRI 
 In order to be able to follow the next steps, you should download the attached tar-zipped archive **HADDOCK-SAXS-Scoring.tgz** and extract it in under a Unix/Linux environment:
 
 ```bash
-wget http://www.wenmr.eu/wenmr/files/HADDOCK-SAXS-Scoring.tgz
+wget https://www.wenmr.eu/tutorials/HADDOCK-SAXS/HADDOCK-SAXS-Scoring.tgz
 tar xvfz HADDOCK-SAXS-Scoring.tgz
 ```
 
@@ -116,7 +116,7 @@ This script will output new scoring values, i.e. HADDOCK<sub>SAXS</sub> values. 
 
 As an output of this script, you'll get the stats file **HSSAXS_HS_SAXSFit_RMSD.list** that contains each scoring measure (Chi, HADDOCK, HADDOCKSAXS) and i-RMSD of the various models. Here i-RMSD is denotes interface-RMSD that measures how well the interface is predicted (since we had the Xtal structure, we were able to pre-calculate i-RMSDs for you). Ideally for an "acceptable" model, the i-RMSD should be < 4A.
 
-Now with any plotting tool, you can plot the columns of **HSSAXS_HS_SAXSFit_RMSD.list** and observe the distribution of each score with respect to i-RMSD. For example, if you have xmgrace installed, you can also use the following commands to generate these plots:
+Now with any plotting tool, you can plot the columns of **HSSAXS_HS_SAXSFit_RMSD.list** and observe the distribution of each score with respect to i-RMSD. For example, if you have [xmgrace](http://plasma-gate.weizmann.ac.il/Grace/) installed, you can also use the following commands to generate these plots:
 
 ```bash
 ./make_rms-ene.csh 5 3 *_RMSD.list  
