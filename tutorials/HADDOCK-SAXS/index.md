@@ -39,7 +39,9 @@ For the discrepancy (χ) calculation, we will use [CRYSOL](http://www.embl-hambu
 
    **(ii)** fit the simulated scattering profile to the experimental one obtained from SAXS measurements. This is done by minimizing the discrepancy (χ2) value between two curves. If you are interested how this calculation is done, you can check CRYSOL's [reference paper](http://www.embl-hamburg.de/biosaxs/reprints/crysol_1995.pdf).
 
-![HADDOCK-SAXS](images/1.png)
+<div style="text-align:center;">
+<img src="images/1.png" alt="HADDOCK-SAXS" />
+</div>
 
 **An example CRYSOL output. The black line is the theoretical scattering curve calculated by CRYSOL (refers to the docking model-colored complex). The red crosses represent the experimental SAXS profile (measured for the black complex-PDB id: 2r15). The quality of the fit (χ) is reported as 4.9.
 
@@ -69,7 +71,9 @@ Here, E<sub>vdW</sub> is the van der Waals intermolecular energy, E<sub>Elec</su
 
 In this section, we’ll guide you through a real CAPRI modeling example. CAPRI is abbreviated for Critical Assessment of PRediction of Interactions ([http://www.ebi.ac.uk/msd-srv/capri/capri.html](http://www.ebi.ac.uk/msd-srv/capri/capri.html)). It’s a blind docking contest dedicated to the performance assessment of various docking methods.
 
-![HADDOCK-SAXS](images/2.png)
+<div style="text-align:center;">
+<img src="images/2.png" alt="HADDOCK-SAXS" />
+</div>
 
 **This example belongs to [CAPRI](http://www.ebi.ac.uk/msd-srv/capri/) round 27 (Target 58)**. It’s a lysozyme-lysozyme inhibitor complex (PDB id: [4g9s](http://www.rcsb.org/pdb/explore.do?structureId=4G9S)). Since we are going to perform a scoring exercise, we'll use a pre-docked run that was submitted for performance assessment. (To generate the models, we used a special solvated docking protocol of HADDOCK. For more information on the protocol please see [*Kastritis et al.*, Proteins, 2013](http://dx.doi.org/doi:10.1002/prot.24210)).
  
@@ -134,11 +138,13 @@ xmgrace rms-chi.xmgr
  
 As a result, you'll get the following graphs:
 
-![HADDOCK-SAXS](images/3.png)
-
-![HADDOCK-SAXS](images/4.png)
-
-![HADDOCK-SAXS](images/5.png)
+<div style="text-align:center;">
+<img src="images/3.png" alt="HADDOCK-SAXS" />
+<br>
+<img src="images/4.png" alt="HADDOCK-SAXS" />
+<br>
+<img src="images/5.png" alt="HADDOCK-SAXS" />
+</div>
 
 Inspection of those plots reveals that the combination of HADDOCK and SAXS scoring provides the most funnel-like distribution. If you would like to check, which structure ranks the first now and compare it with the conventional HADDOCK results, you can look through **HSSAXS_HS_SAXSFit.list**. In this file, the first column contains the pdbid, the second the HADDOCK<sub>SAXS</sub> score, the third the HADDOCK score and the fourth the Chi value.
  
