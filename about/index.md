@@ -33,6 +33,12 @@ And the following article describing the WeNMR portals should be cited:
 <br>
 <HR>
 
+### Publications acknowledging WeNMR
+
+You can find a list of publication acknowledging WeNMR through the [OpenAire search tool](https://explore.openaire.eu/search/advanced/publications?project=%22corda_______%253A%253Ad2a89bb59c31a53c86b97dcc1dc18f79%22,%22corda__h2020%253A%253A1e45864613da715ea5ad8dfcfe5eb2b1%22&po=and,or&sortBy=resultdateofacceptance,descending){:target="_blank"}.
+
+<br>
+<HR>
 
 ### EGI-approved
 
