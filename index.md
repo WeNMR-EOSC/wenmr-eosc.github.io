@@ -16,4 +16,4 @@ The old registration system has been discontinued, but we are working to provide
 
 <hr>
 
-This work is co-funded by the Horizon 2020 projects <a href="https://www.eosc-hub.eu" target="_blank">EOSC-hub</a> (grant number <a href="https://cordis.europa.eu/project/id/777536" target="_blank">777536</a>) and <a href="http://www.bioexcel.eu" target="_blank">BioExcel</a> (grant numbers <a href="https://cordis.europa.eu/project/id/823830" target="_blank">823830</a> and <a href="https://cordis.europa.eu/project/id/675728" target="_blank">675728</a>).
+This work is funded by the Horizon 2020 project <a href="https://www.eosc-hub.eu" target="_blank">EOSC-hub</a> (grant number <a href="https://cordis.europa.eu/project/id/777536" target="_blank">777536</a>).
