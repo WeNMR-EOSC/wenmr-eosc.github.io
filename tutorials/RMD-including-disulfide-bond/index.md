@@ -11,7 +11,7 @@ image:
 
 Before going into this tutorial, read carefully the description of RMD refinement of protein structures with only upper distance limits and dihedral angle restraints available in [this tutorial](../amber/).
 
-Download the input constraints [here](COX17.tgz) and uncompress the files locally, download structure [2LGQ](http://www.rcsb.org/pdb/explore/explore.do?pdbId=2lgq) from Protein Data Bank.
+Download the input constraints [here](COX17.tgz) and uncompress the files locally, download structure [2LGQ](https://www.rcsb.org/pdb/explore/explore.do?pdbId=2lgq) from Protein Data Bank.
 
 Edit the file 2LGQ.pdb and rename all residues number  40 and 49 from CYS to CYX in any structures
 

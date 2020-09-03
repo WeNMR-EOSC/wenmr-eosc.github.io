@@ -57,11 +57,11 @@ A directory `CShaddock_1.0` will be created, containing the two python scripts `
     shiftxSource/   → source code of ShiftX for Mac OS X users.
 ```
 
-The CShaddock.py python script requires the “numpy” library ([http://numpy.scipy.org/](http://numpy.scipy.org/)) to be installed for python.
+The CShaddock.py python script requires the “numpy” library ([https://numpy.scipy.org/](https://numpy.scipy.org/)) to be installed for python.
 
-The CShaddockPlot.py python script requires the “matplotlib” (import pylab) library (http://matplotlib.sourceforge.net/) to be installed for python.
+The CShaddockPlot.py python script requires the “matplotlib” (import pylab) library (https://matplotlib.sourceforge.net/) to be installed for python.
 
-Beside the two python scripts the “CShaddock_1.0” directory contains also the “shiftx” executable ([http://shiftx.wishartlab.com/](http://shiftx.wishartlab.com/)) for Linux. The “shiftx” executable must be in the same directory as CShaddock.py. If you are using Mac OS X, you will have to compile ShiftX from source. The ShiftX source can be found under: [http://wishartlab.com/download/shiftx/](http://wishartlab.com/download/shiftx/). With permission of the authors, a copy of the ShiftX source as obtained on the 3th November 2011 is also included in the CS-HADDOCK distribution in the “shiftxSource” subdirectory.
+Beside the two python scripts the “CShaddock_1.0” directory contains also the “shiftx” executable ([https://shiftx.wishartlab.com/](https://shiftx.wishartlab.com/)) for Linux. The “shiftx” executable must be in the same directory as CShaddock.py. If you are using Mac OS X, you will have to compile ShiftX from source. The ShiftX source can be found under: [https://wishartlab.com/download/shiftx/](https://wishartlab.com/download/shiftx/). With permission of the authors, a copy of the ShiftX source as obtained on the 3th November 2011 is also included in the CS-HADDOCK distribution in the “shiftxSource” subdirectory.
 
 CS-HADDOCK can be executed simply from inside the directory "CShaddock_1.0" by typing:
 
@@ -119,7 +119,7 @@ The “data” subdirectory contains the input data files for CS-HADDOCK. The ch
 * The PDB files of the free-form starting structures used by HADDOCK.
 * The ambiguous distance restraints data file (ambig.tbl) used by HADDOCK and obtained from CSP data analysis.
 * The parameter file of the HADDOCK webserver (haddockparam.web) used to generate the models in the “run” subdirectory.
-* The ana_scripts subdirectory contains the reference complex structure and the HADDOCK “i-rmsd_to_xray.csh” script to calculate the interface-RMSD values to the reference structure. To use this script you will need **ProFit** ([http://www.bioinf.org.uk/software/profit/index.html](http://www.bioinf.org.uk/software/profit/index.html)). For the distributed examples the interface-RMSD values have already been calculated and saved as “i-RMSD.dat” in the “run” subdirectory.
+* The ana_scripts subdirectory contains the reference complex structure and the HADDOCK “i-rmsd_to_xray.csh” script to calculate the interface-RMSD values to the reference structure. To use this script you will need **ProFit** ([https://www.bioinf.org.uk/software/profit/index.html](https://www.bioinf.org.uk/software/profit/index.html)). For the distributed examples the interface-RMSD values have already been calculated and saved as “i-RMSD.dat” in the “run” subdirectory.
 
 
 ### Input parameters
@@ -327,4 +327,4 @@ After running CShaddock.py, the results given by the `*.scores` files can be vis
 
 ##  Reference
 
-Dirk Stratmann, Rolf Boelens, Alexandre M. J. J. Bonvin (2011). [Quantitative use of chemical shifts for the modeling of protein complexes](http://dx.doi.org/10.1002/prot.23090) Proteins: Structure, Function, and Bioinformatics Volume 79, Issue 9, pages 2662–2670.
+Dirk Stratmann, Rolf Boelens, Alexandre M. J. J. Bonvin (2011). [Quantitative use of chemical shifts for the modeling of protein complexes](https://dx.doi.org/10.1002/prot.23090) Proteins: Structure, Function, and Bioinformatics Volume 79, Issue 9, pages 2662–2670.
