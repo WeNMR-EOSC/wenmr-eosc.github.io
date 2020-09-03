@@ -11,7 +11,7 @@ image:
 
 Before going into this tutorial, read carefully the description of RMD refinement of protein structures with only upper distance limits and dihedral angle restraints available in [this tutorial](../amber/).
 
-Download the input [here](demoRDC.tgz) and uncompress the files locally. The data are from structure [2KMV](http://www.rcsb.org/pdb/explore/explore.do?pdbId=2kmv)
+Download the input [here](demoRDC.tgz) and uncompress the files locally. The data are from structure [2KMV](https://www.rcsb.org/pdb/explore/explore.do?pdbId=2kmv)
 
 Create a new working project using the menu “Projects” -> “Create”, with the project name “usecaseamberRDC”. 
 

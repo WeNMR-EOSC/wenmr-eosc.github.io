@@ -9,7 +9,7 @@ image:
 
 ## RMD refinement of CYANA/Xplor-NIH structures
 
-Download the input [here](2KT0_tutorial.zip) and uncompress the files locally. The data are from structure [2KT0](http://www.rcsb.org/pdb/explore/explore.do?pdbId=2kt0).
+Download the input [here](2KT0_tutorial.zip) and uncompress the files locally. The data are from structure [2KT0](https://www.rcsb.org/pdb/explore/explore.do?pdbId=2kt0).
 
 Create a new working project using the menu  “Projects” -> “Create”, with the project name “usecaseamber”. You will then see a page with a tree showing all of your projects.
 

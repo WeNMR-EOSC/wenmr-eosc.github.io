@@ -14,7 +14,7 @@ To ensure whatever you create/change appears as faithfully as possible after pus
 Make sure you have an active installation of the Ruby programming language:
 ```bash
 $ ruby -v
-ruby 2.3.3p222 (2016-11-21 revision 56859) [universal.x86_64-darwin17]
+rvm --default use ruby-2.6.3
 ```
 
 2. Install Bundler

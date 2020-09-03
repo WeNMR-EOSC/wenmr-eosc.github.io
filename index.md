@@ -1,6 +1,6 @@
 ---
 layout: page
-tags: [WeNRM, NRM, SAXS, e-Infrastructure, Structure, Biology, West-Life, EU, EGI, 7framework, Grid]
+tags: [WeNMR, NMR, SAXS, e-Infrastructure, Structure, Biology, West-Life, EU, EGI, 7framework, H2020, EOSC, Grid]
 comments: false
 image:
   feature: banner.png
@@ -10,6 +10,6 @@ WeNMR  is a Virtual Research Community supported by EGI. WeNMR aims at bringing 
 
 <hr>
 
-This is a new re-design of the WeNMR entry. At the moment, WeNMR is operating as a thematic service in the <a href="https://www.eosc-hub.eu/" target="_blank">EOSC-hub</a> project.
+WeNMR is operating as a thematic service in the <a href="https://www.eosc-hub.eu/" target="_blank">EOSC-hub</a> project.
 
-The old registration system has been discontinued, but we are working to provide a new one soon.
+For registration check directly the services you want to access.
