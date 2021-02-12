@@ -22,7 +22,7 @@ The WeNMR thematic services operated under EOSC-Hub consist of eight individual 
 
 * <a href="https://py-enmr.cerm.unifi.it/access/index" target="_blank">AMPS-NMR</a>, a web portal for Nuclear Magnetic Resonance (NMR) structures
 * <a href="https://wenmr.science.uu.nl/disvis" target="_blank">DISVIS</a>, to visualise and quantify the accessible interaction space in macromolecular complexes
-* <a href="https://abs.cerm.unifi.it:8080/" target="_blank">FANTEN</a>, for multiple alignment of nucleic acid and protein sequences
+* <a href="http://abs.cerm.unifi.it:8080/" target="_blank">FANTEN</a>, for multiple alignment of nucleic acid and protein sequences
 * <a href="https://alcazar.science.uu.nl/enmr/services/HADDOCK2.2/" target="_blank">HADDOCK2.2</a>, to model complexes of proteins and other biomolecules
 * <a href="https://wenmr.science.uu.nl/haddock2.4/" target="_blank">HADDOCK2.4</a>, to model complexes of proteins and other biomolecules
 * <a href="https://alcazar.science.uu.nl/enmr/services/POWERFIT" target="_blank">POWERFIT</a>, for rigid body fitting of atomic structures into cryo-EM density maps
