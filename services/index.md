@@ -52,4 +52,4 @@ The WeNMR tools are provided by the <a href="https://www.uu.nl/" target="_blank"
 
 The tools are powered by High-Throughput Compute capabilities provided by the <a href="https://www.egi.eu" target="_blank">EGI Federation</a> and enhanced with software components developed by the <a href="https://www.indigo-datacloud.eu" target="_blank">INDIGO DataCloud project</a>.
 
-In the context of the <a href="https://www.eosc-hub.eu" target="_blank">EOSC-hub project</a>, the WeNMR services will be integrated with EGI, EUDAT services and other components from the INDIGO catalogue.
+The services are operating in the context of the <a href="https://www.eosc-hub.eu" target="_blank">EOSC-hub project</a> (finished) and the <a href="https://www.egi.eu/projects/egi-ace/" target="_blank">EGI-ACE project</a>, and are registered in the marketplace of the [EOSC portal](https://marketplace.eosc-portal.eu).
