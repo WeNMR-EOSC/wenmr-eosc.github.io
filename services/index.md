@@ -20,7 +20,7 @@ WeNMR is now part of the <a href="https://www.eosc-hub.eu/catalogue/WeNMR%20suit
 
 The WeNMR thematic services operated under EOSC-Hub consist of eight individual platforms:
 
-* <a href="http://py-enmr.cerm.unifi.it/access/index" target="_blank">AMPS-NMR</a>, a web portal for Nuclear Magnetic Resonance (NMR) structures
+* <a href="https://py-enmr.cerm.unifi.it/access/index" target="_blank">AMPS-NMR</a>, a web portal for Nuclear Magnetic Resonance (NMR) structures
 * <a href="https://wenmr.science.uu.nl/disvis" target="_blank">DISVIS</a>, to visualise and quantify the accessible interaction space in macromolecular complexes
 * <a href="http://abs.cerm.unifi.it:8080/" target="_blank">FANTEN</a>, for multiple alignment of nucleic acid and protein sequences
 * <a href="https://alcazar.science.uu.nl/enmr/services/HADDOCK2.2/" target="_blank">HADDOCK2.2</a>, to model complexes of proteins and other biomolecules
