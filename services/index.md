@@ -40,7 +40,6 @@ The WeNMR thematic services operated under EOSC-Hub consist of eight individual 
 * <a href="https://alcazar.science.uu.nl/services/FANDAS" target="_blank">FANDAS</a>, a tool to predict peaks for multidimensional NMR experiments on proteins
 * <a href="https://py-enmr.cerm.unifi.it/access/index/maxocc" target="_blank">MAXOCC</a>, a method for making rigorous numerical assessments about the maximum percent of time that a conformer of a flexible macromolecule can exist and still be compatible with the experimental data 
 * <a href="https://py-enmr.cerm.unifi.it/access/index/sednmr" target="_blank">SEDNMR</a>, web tool for simple calculation of the relevant parameters for the success of the sedimentation NMR experiments, either in a rotor or with ultracentrifugal devices
-* <a href="https://py-enmr.cerm.unifi.it/access/index/xplor-nih" target="_blank">XPLOR-NIH</a>, a generalized software for biomolecular structure determination from experimental NMR data combined with geometric data
 
 ## How to access the services
 
@@ -50,6 +49,6 @@ The WeNMR platforms are freely available online and can be accessed by researche
 
 The WeNMR tools are provided by the <a href="https://www.uu.nl/" target="_blank">University of Utrecht</a>, the <a href="https://www.unifi.it/changelang-eng.html" target="_blank">University of Florence</a> / <a href="https://www.cerm.unifi.it" target="_blank">Interuniversity consortium CIRMMP</a> and the <a href="https://home.infn.it/en/" target="_blank">INFN Padova</a>.
 
-The tools are powered by High-Throughput Compute capabilities provided by the <a href="https://www.egi.eu" target="_blank">EGI Federation</a> and enhanced with software components developed by the <a href="https://www.indigo-datacloud.eu" target="_blank">INDIGO DataCloud project</a>.
+The tools are powered by High-Throughput Compute capabilities provided by the <a href="https://www.egi.eu" target="_blank">EGI Federation</a> and enhanced with software components developed by the INDIGO DataCloud project.
 
 The services are operating in the context of the <a href="https://www.eosc-hub.eu" target="_blank">EOSC-hub project</a> (finished) and the <a href="https://www.egi.eu/projects/egi-ace/" target="_blank">EGI-ACE project</a>, and are registered in the marketplace of the [EOSC portal](https://marketplace.eosc-portal.eu).
