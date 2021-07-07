@@ -26,7 +26,7 @@ gem install bundler
 
 ```bash
 git clone https://github.com/WeNMR-EOSC/wenmr.github.io.git
-cd wenmr.github.i
+cd wenmr.github.io
 bundle install
 ```
 
