@@ -23,7 +23,6 @@ The WeNMR thematic services operated under EOSC-Hub consist of eight individual 
 * <a href="https://py-enmr.cerm.unifi.it/access/index" target="_blank">AMPS-NMR</a>, a web portal for Nuclear Magnetic Resonance (NMR) structures
 * <a href="https://wenmr.science.uu.nl/disvis" target="_blank">DISVIS</a>, to visualise and quantify the accessible interaction space in macromolecular complexes
 * <a href="http://abs.cerm.unifi.it:8080/" target="_blank">FANTEN</a>, for multiple alignment of nucleic acid and protein sequences
-* <a href="https://alcazar.science.uu.nl/enmr/services/HADDOCK2.2/" target="_blank">HADDOCK2.2</a>, to model complexes of proteins and other biomolecules
 * <a href="https://wenmr.science.uu.nl/haddock2.4/" target="_blank">HADDOCK2.4</a>, to model complexes of proteins and other biomolecules
 * <a href="https://metalpdb.cerm.unifi.it/" target="_blank">METALPDB</a>, a database collecting information on the metal-binding sites in the structures of biological macromolecules
 * <a href="https://wenmr.science.uu.nl/pdbtools/" target="_blank">PDB-Tools Web</a>, user-friendly web interface for formatting PDB structures
@@ -37,7 +36,7 @@ The WeNMR thematic services operated under EOSC-Hub consist of eight individual 
 
 
 <!-- * <a href="https://https://github.com/haddocking/3D-DART-server" target="_blank">3D-DART</a>, DNA structure modelling tools -->
-* <a href="https://alcazar.science.uu.nl/services/FANDAS" target="_blank">FANDAS</a>, a tool to predict peaks for multidimensional NMR experiments on proteins
+* <a href="https://rascar.science.uu.nl/fandas" target="_blank">FANDAS</a>, a tool to predict peaks for multidimensional NMR experiments on proteins
 * <a href="https://py-enmr.cerm.unifi.it/access/index/maxocc" target="_blank">MAXOCC</a>, a method for making rigorous numerical assessments about the maximum percent of time that a conformer of a flexible macromolecule can exist and still be compatible with the experimental data 
 * <a href="https://py-enmr.cerm.unifi.it/access/index/sednmr" target="_blank">SEDNMR</a>, web tool for simple calculation of the relevant parameters for the success of the sedimentation NMR experiments, either in a rotor or with ultracentrifugal devices
 
